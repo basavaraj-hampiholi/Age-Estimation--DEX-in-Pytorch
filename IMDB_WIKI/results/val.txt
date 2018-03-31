@@ -1,0 +1,733 @@
+LR-0.0001 and 0.00001 after 25 epochs and Weight decay: 0.0005 total epochs: 35
+Epoch: 0	Prec@1 5.218	Prec@5 23.194
+Epoch: 1	Prec@1 5.448	Prec@5 23.907
+Epoch: 2	Prec@1 6.441	Prec@5 27.086
+Epoch: 3	Prec@1 6.630	Prec@5 28.988
+Epoch: 4	Prec@1 6.812	Prec@5 29.659
+Epoch: 5	Prec@1 7.114	Prec@5 29.973
+Epoch: 6	Prec@1 7.680	Prec@5 31.891
+Epoch: 7	Prec@1 7.465	Prec@5 31.520
+Epoch: 8	Prec@1 7.035	Prec@5 29.954
+Epoch: 9	Prec@1 7.635	Prec@5 31.477
+Epoch: 10	Prec@1 7.908	Prec@5 32.973
+Epoch: 11	Prec@1 7.337	Prec@5 31.210
+Epoch: 12	Prec@1 7.390	Prec@5 31.661
+Epoch: 13	Prec@1 7.848	Prec@5 32.488
+Epoch: 14	Prec@1 8.448	Prec@5 33.481
+Epoch: 15	Prec@1 7.330	Prec@5 29.460
+Epoch: 16	Prec@1 7.966	Prec@5 32.179
+Epoch: 17	Prec@1 8.074	Prec@5 33.311
+Epoch: 18	Prec@1 8.241	Prec@5 32.285
+Epoch: 19	Prec@1 7.851	Prec@5 32.083
+Epoch: 20	Prec@1 8.282	Prec@5 33.014
+Epoch: 21	Prec@1 7.817	Prec@5 32.474
+LR-0.001 and 10% reduce after every 15 epochs and Weight decay: 0.0001 total epochs: 40
+Epoch: 0	Prec@1 6.354	Prec@5 28.319
+Epoch: 1	Prec@1 6.604	Prec@5 27.784
+Epoch: 2	Prec@1 6.457	Prec@5 27.789
+Epoch: 3	Prec@1 7.035	Prec@5 30.393
+Epoch: 4	Prec@1 7.316	Prec@5 30.647
+Epoch: 5	Prec@1 7.524	Prec@5 31.568
+Epoch: 6	Prec@1 7.321	Prec@5 31.433
+Epoch: 7	Prec@1 7.277	Prec@5 30.920
+Epoch: 8	Prec@1 7.378	Prec@5 31.671
+Epoch: 9	Prec@1 7.412	Prec@5 31.067
+Epoch: 10	Prec@1 7.285	Prec@5 30.899
+Epoch: 11	Prec@1 7.613	Prec@5 32.366
+Epoch: 12	Prec@1 7.592	Prec@5 31.587
+Epoch: 13	Prec@1 7.709	Prec@5 31.573
+Epoch: 14	Prec@1 7.656	Prec@5 30.971
+Epoch: 15	Prec@1 8.637	Prec@5 34.284
+Epoch: 16	Prec@1 8.620	Prec@5 34.754
+Epoch: 17	Prec@1 8.613	Prec@5 35.042
+Epoch: 18	Prec@1 8.671	Prec@5 34.997
+Epoch: 19	Prec@1 8.635	Prec@5 35.119
+LR-0.001 and 10% reduce after every 15 epochs and Weight decay: 0.0005 total epochs: 40 and weighted cross entropy= 0.4
+Epoch: 0	Prec@1 4.177	Prec@5 20.144
+Epoch: 1	Prec@1 3.849	Prec@5 19.195
+Epoch: 2	Prec@1 4.177	Prec@5 19.147
+LR-0.001 and 10% reduce after every 15 epochs and Weight decay: 0.0005 total epochs: 40 and weighted cross entropy= 0.4 and 1 dropouts-0.8
+Epoch: 0	Prec@1 4.829	Prec@5 21.092
+Epoch: 1	Prec@1 4.882	Prec@5 22.418
+Epoch: 2	Prec@1 4.800	Prec@5 21.617
+Epoch: 3	Prec@1 4.673	Prec@5 22.578
+Epoch: 4	Prec@1 4.191	Prec@5 19.360
+Epoch: 5	Prec@1 4.100	Prec@5 18.679
+Epoch: 6	Prec@1 4.522	Prec@5 21.554
+Epoch: 7	Prec@1 4.633	Prec@5 21.715
+Epoch: 8	Prec@1 4.621	Prec@5 22.868
+Epoch: 9	Prec@1 5.462	Prec@5 23.775
+Epoch: 10	Prec@1 4.901	Prec@5 22.329
+Epoch: 11	Prec@1 4.450	Prec@5 20.837
+Epoch: 12	Prec@1 4.863	Prec@5 22.518
+Epoch: 13	Prec@1 5.031	Prec@5 22.281
+Epoch: 14	Prec@1 4.664	Prec@5 21.396
+Epoch: 15	Prec@1 5.844	Prec@5 26.280
+Epoch: 16	Prec@1 5.954	Prec@5 27.033
+Epoch: 17	Prec@1 5.820	Prec@5 26.444
+Epoch: 18	Prec@1 5.606	Prec@5 26.069
+Epoch: 19	Prec@1 5.975	Prec@5 27.429
+Epoch: 20	Prec@1 5.975	Prec@5 26.983
+Epoch: 21	Prec@1 6.136	Prec@5 27.542
+Epoch: 22	Prec@1 5.882	Prec@5 26.810
+Epoch: 23	Prec@1 6.129	Prec@5 27.079
+Epoch: 24	Prec@1 6.203	Prec@5 27.494
+Epoch: 25	Prec@1 5.856	Prec@5 27.271
+Epoch: 26	Prec@1 5.944	Prec@5 26.163
+Epoch: 27	Prec@1 5.728	Prec@5 26.664
+Epoch: 28	Prec@1 5.932	Prec@5 26.535
+Epoch: 29	Prec@1 5.575	Prec@5 25.468
+Epoch: 30	Prec@1 6.616	Prec@5 28.786
+Epoch: 31	Prec@1 6.549	Prec@5 28.913
+Epoch: 32	Prec@1 6.743	Prec@5 29.803
+Epoch: 33	Prec@1 6.812	Prec@5 29.203
+Epoch: 34	Prec@1 6.537	Prec@5 29.081
+Epoch: 35	Prec@1 6.913	Prec@5 29.307
+Epoch: 36	Prec@1 6.539	Prec@5 29.184
+Epoch: 37	Prec@1 6.688	Prec@5 29.748
+Epoch: 38	Prec@1 6.599	Prec@5 29.354
+LR-0.001 and 10% reduce after every 15 epochs and Weight decay: 0.0005 total epochs: 40 and weighted cross entropy= 0.4 and 1 dropouts-0.8 and 81 classes
+Epoch: 0	Prec@1 5.552	Prec@5 25.254
+Epoch: 1	Prec@1 6.914	Prec@5 29.764
+Epoch: 2	Prec@1 7.220	Prec@5 31.006
+Epoch: 3	Prec@1 6.289	Prec@5 27.644
+Epoch: 4	Prec@1 7.254	Prec@5 31.732
+Epoch: 5	Prec@1 7.288	Prec@5 31.158
+Epoch: 6	Prec@1 6.632	Prec@5 30.177
+Epoch: 7	Prec@1 7.160	Prec@5 30.702
+Epoch: 8	Prec@1 7.131	Prec@5 30.953
+Epoch: 9	Prec@1 7.020	Prec@5 29.865
+Epoch: 10	Prec@1 7.006	Prec@5 30.596
+Epoch: 11	Prec@1 7.259	Prec@5 29.849
+Epoch: 12	Prec@1 7.097	Prec@5 31.119
+Epoch: 13	Prec@1 7.206	Prec@5 29.846
+Epoch: 14	Prec@1 7.454	Prec@5 31.570
+Epoch: 15	Prec@1 8.344	Prec@5 34.517
+Epoch: 16	Prec@1 8.219	Prec@5 35.193
+Epoch: 17	Prec@1 8.421	Prec@5 35.171
+Epoch: 18	Prec@1 8.291	Prec@5 34.679
+Epoch: 19	Prec@1 8.315	Prec@5 34.532
+Epoch: 20	Prec@1 8.376	Prec@5 34.568
+LR-0.001 and 10% reduce after every 15 epochs and Weight decay: 0.0005 tLoss: otal epochs: 40 and 1 dropouts-0.7 and 81 classes
+Epoch: 0	Prec@1 6.101	Prec@5 27.010
+Epoch: 1	Prec@1 6.593	Prec@5 29.882
+Epoch: 2	Prec@1 6.979	Prec@5 30.275
+Epoch: 3	Prec@1 7.085	Prec@5 29.752
+Epoch: 4	Prec@1 7.112	Prec@5 31.122
+Epoch: 5	Prec@1 7.522	Prec@5 31.698
+Epoch: 6	Prec@1 6.796	Prec@5 30.054
+Epoch: 7	Prec@1 7.249	Prec@5 30.939
+Epoch: 8	Prec@1 7.310	Prec@5 30.922
+Epoch: 9	Prec@1 7.418	Prec@5 31.462
+Epoch: 10	Prec@1 7.387	Prec@5 31.329
+Epoch: 11	Prec@1 7.606	Prec@5 32.475
+Epoch: 12	Prec@1 7.633	Prec@5 32.470
+Epoch: 13	Prec@1 7.435	Prec@5 31.083
+Epoch: 14	Prec@1 7.380	Prec@5 31.476
+Epoch: 15	Prec@1 8.417	Prec@5 34.513
+Epoch: 16	Prec@1 8.494	Prec@5 35.198
+Epoch: 17	Prec@1 8.388	Prec@5 34.973
+Epoch: 18	Prec@1 8.281	Prec@5 34.575
+Epoch: 19	Prec@1 8.472	Prec@5 35.062
+LR-0.001 and 10% reduce after every 15 epochs and Weight decay: 0.00001 total epochs: 40 and 0 dropouts and 81 classes and softmax activation with weighted cross entropy= 0.5
+Epoch: 0	Loss: 4.1856	Prec@1 3.236	Prec@5 11.962
+Epoch: 1	Loss: 4.0488	Prec@1 4.066	Prec@5 17.472
+Epoch: 2	Loss: 3.9047	Prec@1 3.907	Prec@5 18.654
+Epoch: 3	Loss: 3.8691	Prec@1 4.343	Prec@5 19.886
+Epoch: 4	Loss: 3.7987	Prec@1 4.367	Prec@5 20.200
+Epoch: 5	Loss: 3.7387	Prec@1 4.717	Prec@5 22.143
+Epoch: 6	Loss: 3.7130	Prec@1 4.941	Prec@5 22.339
+Epoch: 7	Loss: 3.6988	Prec@1 5.277	Prec@5 23.996
+Epoch: 8	Loss: 3.6766	Prec@1 5.226	Prec@5 24.374
+Epoch: 9	Loss: 3.6823	Prec@1 5.313	Prec@5 23.981
+Epoch: 10	Loss: 3.6620	Prec@1 5.429	Prec@5 24.989
+Epoch: 11	Loss: 3.6692	Prec@1 5.431	Prec@5 24.943
+Epoch: 12	Loss: 3.6764	Prec@1 5.508	Prec@5 23.431
+Epoch: 13	Loss: 3.6448	Prec@1 5.593	Prec@5 25.785
+Epoch: 14	Loss: 3.6460	Prec@1 5.226	Prec@5 26.036
+Epoch: 15	Loss: 3.6327	Prec@1 5.744	Prec@5 27.111
+Epoch: 16	Loss: 3.6260	Prec@1 5.783	Prec@5 26.846
+Epoch: 17	Loss: 3.6266	Prec@1 5.892	Prec@5 27.394
+Epoch: 18	Loss: 3.6254	Prec@1 6.130	Prec@5 27.813
+Epoch: 19	Loss: 3.6255	Prec@1 6.147	Prec@5 27.709
+LR-0.0001 and 10% reduce after every 20 epochs and Weight decay: 0.00001 total epochs: 45 and 0 dropouts and 81 classes and Logsoftmax activation
+Epoch: 0	Loss: 5.5514	Prec@1 2.226	Prec@5 13.850
+Epoch: 1	Loss: 5.1051	Prec@1 3.726	Prec@5 19.720
+Epoch: 2	Loss: 4.6790	Prec@1 4.679	Prec@5 20.183
+Epoch: 3	Loss: 5.1517	Prec@1 3.801	Prec@5 23.253
+Epoch: 4	Loss: 4.7773	Prec@1 4.937	Prec@5 21.326
+Epoch: 5	Loss: 5.4006	Prec@1 3.979	Prec@5 22.843
+Epoch: 6	Loss: 5.2660	Prec@1 5.084	Prec@5 23.851
+Epoch: 7	Loss: 4.7313	Prec@1 6.039	Prec@5 24.073
+Epoch: 8	Loss: 4.8526	Prec@1 6.162	Prec@5 23.735
+Epoch: 9	Loss: 4.7703	Prec@1 5.942	Prec@5 24.837
+Epoch: 10	Loss: 4.6983	Prec@1 6.092	Prec@5 26.735
+Epoch: 11	Loss: 5.6220	Prec@1 5.621	Prec@5 27.386
+Epoch: 12	Loss: 4.5385	Prec@1 6.649	Prec@5 26.742
+Epoch: 13	Loss: 4.7011	Prec@1 6.253	Prec@5 26.016
+Epoch: 14	Loss: 5.5349	Prec@1 6.639	Prec@5 25.175
+Epoch: 15	Loss: 4.9032	Prec@1 6.627	Prec@5 26.861
+Epoch: 16	Loss: 5.2198	Prec@1 6.531	Prec@5 24.381
+LR-0.0001 and 10% reduce after every 20 epochs and Weight decay: 0.0005 total epochs: 45 and 0 dropouts and 81 classes and Logsoftmax activation
+Epoch: 0	Loss: 5.1581	Prec@1 3.950	Prec@5 15.555
+Epoch: 1	Loss: 5.7814	Prec@1 4.269	Prec@5 21.104
+Epoch: 2	Loss: 4.8339	Prec@1 3.967	Prec@5 18.622
+Epoch: 3	Loss: 5.2265	Prec@1 3.422	Prec@5 22.175
+Epoch: 4	Loss: 5.1157	Prec@1 4.563	Prec@5 22.305
+Epoch: 5	Loss: 4.7745	Prec@1 3.798	Prec@5 22.025
+Epoch: 6	Loss: 4.5109	Prec@1 5.199	Prec@5 24.442
+Epoch: 7	Loss: 5.4993	Prec@1 3.367	Prec@5 21.355
+Epoch: 8	Loss: 4.4978	Prec@1 6.039	Prec@5 25.392
+Epoch: 9	Loss: 4.5261	Prec@1 4.881	Prec@5 24.360
+Epoch: 10	Loss: 4.7094	Prec@1 4.416	Prec@5 21.201
+Epoch: 11	Loss: 4.8366	Prec@1 3.844	Prec@5 23.417
+Epoch: 12	Loss: 4.4083	Prec@1 5.583	Prec@5 24.015
+Epoch: 13	Loss: 5.7813	Prec@1 4.018	Prec@5 22.995
+Epoch: 14	Loss: 4.3112	Prec@1 5.503	Prec@5 24.032
+Epoch: 15	Loss: 4.4224	Prec@1 5.771	Prec@5 24.864
+Epoch: 16	Loss: 4.8991	Prec@1 5.525	Prec@5 24.203
+Epoch: 17	Loss: 4.4893	Prec@1 6.121	Prec@5 24.577
+Epoch: 18	Loss: 4.8423	Prec@1 4.184	Prec@5 21.789
+Epoch: 19	Loss: 4.4243	Prec@1 4.855	Prec@5 25.705
+Epoch: 20	Loss: 3.4942	Prec@1 7.401	Prec@5 30.900
+Epoch: 21	Loss: 3.4761	Prec@1 7.392	Prec@5 31.681
+Epoch: 22	Loss: 3.5095	Prec@1 7.572	Prec@5 31.238
+Epoch: 23	Loss: 3.5043	Prec@1 7.601	Prec@5 31.693
+Epoch: 24	Loss: 3.5583	Prec@1 7.628	Prec@5 30.953
+LR-0.001 and 10% reduce after every 15 epochs and Weight decay: 0.0005 total epochs: 15 and 0 dropouts and 81 classes and softmax activation
+Epoch: 0	Loss: 4.1714	Prec@1 3.391	Prec@5 10.042
+Epoch: 1	Loss: 4.0342	Prec@1 3.769	Prec@5 17.882
+Epoch: 2	Loss: 3.8968	Prec@1 4.138	Prec@5 18.847
+Epoch: 3	Loss: 3.8762	Prec@1 4.334	Prec@5 19.570
+Epoch: 4	Loss: 3.7478	Prec@1 4.447	Prec@5 20.431
+Epoch: 5	Loss: 3.7446	Prec@1 4.681	Prec@5 21.343
+Epoch: 6	Loss: 3.7477	Prec@1 4.681	Prec@5 21.405
+Epoch: 7	Loss: 3.7355	Prec@1 4.751	Prec@5 21.847
+Epoch: 8	Loss: 3.7348	Prec@1 4.741	Prec@5 22.158
+Epoch: 9	Loss: 3.7455	Prec@1 4.710	Prec@5 22.235
+Epoch: 10	Loss: 3.7282	Prec@1 4.741	Prec@5 22.452
+Epoch: 11	Loss: 3.7228	Prec@1 4.845	Prec@5 22.459
+Epoch: 12	Loss: 3.7299	Prec@1 4.720	Prec@5 22.339
+Epoch: 13	Loss: 3.7237	Prec@1 4.758	Prec@5 22.401
+Epoch: 14	Loss: 3.7302	Prec@1 4.871	Prec@5 22.457
+LR-0.001 and 10% reduce after every 20 epochs and Weight decay: 0.00001 total epochs: 45 and 0 dropouts and 31 classes and Softmax activation
+Epoch: 0	Loss: 4.1626	Prec@1 3.786	Prec@5 16.257
+Epoch: 1	Loss: 3.9984	Prec@1 3.986	Prec@5 17.132
+Epoch: 2	Loss: 3.9411	Prec@1 3.499	Prec@5 17.740
+Epoch: 3	Loss: 3.8023	Prec@1 4.406	Prec@5 19.334
+Epoch: 4	Loss: 3.7601	Prec@1 4.570	Prec@5 20.986
+Epoch: 5	Loss: 3.7615	Prec@1 4.908	Prec@5 21.444
+Epoch: 6	Loss: 3.6909	Prec@1 5.035	Prec@5 22.937
+Epoch: 7	Loss: 3.7220	Prec@1 4.891	Prec@5 23.250
+Epoch: 8	Loss: 3.6892	Prec@1 5.132	Prec@5 23.154
+Epoch: 9	Loss: 3.6722	Prec@1 5.537	Prec@5 24.594
+Epoch: 10	Loss: 3.6733	Prec@1 5.320	Prec@5 25.250
+Epoch: 11	Loss: 3.6938	Prec@1 5.320	Prec@5 24.857
+Epoch: 12	Loss: 3.6733	Prec@1 4.871	Prec@5 23.506
+Epoch: 13	Loss: 3.6395	Prec@1 5.602	Prec@5 25.756
+Epoch: 14	Loss: 3.6413	Prec@1 5.523	Prec@5 25.356
+Epoch: 15	Loss: 3.6239	Prec@1 6.022	Prec@5 27.442
+Epoch: 16	Loss: 3.6181	Prec@1 5.993	Prec@5 27.160
+Epoch: 17	Loss: 3.6101	Prec@1 5.884	Prec@5 25.737
+Epoch: 18	Loss: 3.6046	Prec@1 5.887	Prec@5 26.072
+Epoch: 19	Loss: 3.5943	Prec@1 6.053	Prec@5 27.348
+Epoch: 20	Loss: 3.5860	Prec@1 6.367	Prec@5 28.370
+Epoch: 21	Loss: 3.5894	Prec@1 6.126	Prec@5 28.390
+Epoch: 22	Loss: 3.5873	Prec@1 6.099	Prec@5 28.621
+Epoch: 23	Loss: 3.5873	Prec@1 6.256	Prec@5 28.638
+Epoch: 24	Loss: 3.5858	Prec@1 6.152	Prec@5 28.710
+LR-0.0001 and 10% reduce after every 12 epochs and Weight decay: 0.00001 total epochs: 20 and 0 dropouts and 31 classes and Logsoftmax activation
+Epoch: 0	Loss: 3.1118	Prec@1 20.453	Prec@5 51.610
+Epoch: 1	Loss: 3.1237	Prec@1 15.323	Prec@5 59.072
+Epoch: 2	Loss: 2.7214	Prec@1 16.833	Prec@5 53.187
+Epoch: 3	Loss: 2.9363	Prec@1 18.943	Prec@5 50.855
+Epoch: 4	Loss: 2.4997	Prec@1 22.829	Prec@5 64.024
+Epoch: 5	Loss: 3.4022	Prec@1 20.764	Prec@5 67.244
+Epoch: 6	Loss: 3.0261	Prec@1 22.119	Prec@5 64.179
+Epoch: 7	Loss: 3.1759	Prec@1 21.386	Prec@5 62.936
+Epoch: 8	Loss: 3.2230	Prec@1 21.874	Prec@5 64.268
+Epoch: 9	Loss: 3.2562	Prec@1 28.958	Prec@5 70.353
+Epoch: 10	Loss: 3.5063	Prec@1 22.807	Prec@5 69.576
+Epoch: 11	Loss: 3.6678	Prec@1 23.562	Prec@5 67.555
+Epoch: 12	Loss: 2.9466	Prec@1 27.026	Prec@5 73.595
+Epoch: 13	Loss: 2.9047	Prec@1 29.669	Prec@5 75.461
+Epoch: 14	Loss: 3.0669	Prec@1 32.600	Prec@5 76.616
+Epoch: 15	Loss: 3.0246	Prec@1 30.802	Prec@5 75.039
+Epoch: 16	Loss: 3.0710	Prec@1 30.069	Prec@5 76.305
+Epoch: 17	Loss: 3.1841	Prec@1 29.336	Prec@5 76.260
+Epoch: 18	Loss: 3.1458	Prec@1 29.669	Prec@5 75.328
+Epoch: 19	Loss: 3.1786	Prec@1 31.579	Prec@5 76.727
+LR-0.0001 and 10% reduce after every 12 epochs and Weight decay: 0.00005 total epochs: 20 and 0 dropouts and 21 classes and Logsoftmax activation
+Epoch: 0	Loss: 3.3215	Prec@1 12.614	Prec@5 41.150
+Epoch: 1	Loss: 2.7140	Prec@1 14.324	Prec@5 46.302
+Epoch: 2	Loss: 3.0394	Prec@1 14.812	Prec@5 45.925
+Epoch: 3	Loss: 2.9792	Prec@1 16.789	Prec@5 55.918
+Epoch: 4	Loss: 3.1324	Prec@1 21.230	Prec@5 59.494
+Epoch: 5	Loss: 3.7834	Prec@1 22.185	Prec@5 56.407
+Epoch: 6	Loss: 3.1276	Prec@1 15.701	Prec@5 61.337
+Epoch: 7	Loss: 2.9384	Prec@1 20.453	Prec@5 59.516
+Epoch: 8	Loss: 2.8838	Prec@1 29.092	Prec@5 66.600
+Epoch: 9	Loss: 3.5719	Prec@1 24.006	Prec@5 68.599
+Epoch: 10	Loss: 3.2789	Prec@1 24.584	Prec@5 64.357
+Epoch: 11	Loss: 3.8796	Prec@1 21.830	Prec@5 64.113
+Epoch: 12	Loss: 2.8156	Prec@1 28.248	Prec@5 74.661
+Epoch: 13	Loss: 2.9196	Prec@1 26.938	Prec@5 73.795
+Epoch: 14	Loss: 2.9688	Prec@1 28.892	Prec@5 74.239
+Epoch: 15	Loss: 2.9970	Prec@1 28.514	Prec@5 74.750
+Epoch: 16	Loss: 3.1834	Prec@1 28.892	Prec@5 73.662
+Epoch: 17	Loss: 3.2513	Prec@1 27.915	Prec@5 73.240
+Epoch: 18	Loss: 3.1792	Prec@1 28.736	Prec@5 74.595
+Epoch: 19	Loss: 3.2208	Prec@1 29.292	Prec@5 75.350
+LR-0.0001 and 10% reduce after every 12 epochs and Weight decay: 0.0005 total epochs: 20 and 0 dropouts and 21 classes and Logsoftmax activation
+Epoch: 0	Loss: 3.4600	Prec@1 11.703	Prec@5 42.261
+Epoch: 1	Loss: 2.5933	Prec@1 24.961	Prec@5 69.332
+Epoch: 2	Loss: 3.1320	Prec@1 16.211	Prec@5 49.167
+Epoch: 3	Loss: 3.5579	Prec@1 14.679	Prec@5 45.170
+Epoch: 4	Loss: 2.9407	Prec@1 16.922	Prec@5 56.118
+Epoch: 5	Loss: 3.4139	Prec@1 16.744	Prec@5 54.541
+Epoch: 6	Loss: 3.3626	Prec@1 17.899	Prec@5 49.012
+Epoch: 7	Loss: 2.7100	Prec@1 28.648	Prec@5 63.225
+Epoch: 8	Loss: 3.0914	Prec@1 24.672	Prec@5 58.161
+Epoch: 9	Loss: 3.1298	Prec@1 24.917	Prec@5 59.871
+Epoch: 10	Loss: 2.8558	Prec@1 24.650	Prec@5 65.889
+Epoch: 11	Loss: 3.1296	Prec@1 27.604	Prec@5 67.133
+Epoch: 12	Loss: 2.6446	Prec@1 26.827	Prec@5 73.462
+Epoch: 13	Loss: 2.5269	Prec@1 31.890	Prec@5 75.727
+Epoch: 14	Loss: 2.6916	Prec@1 27.582	Prec@5 74.284
+Epoch: 15	Loss: 2.7675	Prec@1 28.559	Prec@5 73.284
+Epoch: 16	Loss: 2.7009	Prec@1 30.291	Prec@5 76.616
+Epoch: 17	Loss: 2.7955	Prec@1 29.136	Prec@5 74.861
+Epoch: 18	Loss: 2.7336	Prec@1 31.024	Prec@5 76.549
+Epoch: 19	Loss: 2.8134	Prec@1 28.981	Prec@5 75.505
+LR-0.0001 and 10% reduce after every 12 epochs and Weight decay: 0.0005 total epochs: 20 and 0 dropouts and 61 classes and Logsoftmax activation
+Epoch: 0	Loss: 4.6741	Prec@1 4.834	Prec@5 18.852
+Epoch: 1	Loss: 4.1496	Prec@1 3.454	Prec@5 19.236
+Epoch: 2	Loss: 4.6939	Prec@1 4.973	Prec@5 21.738
+Epoch: 3	Loss: 4.0370	Prec@1 5.304	Prec@5 24.222
+Epoch: 4	Loss: 4.1782	Prec@1 6.058	Prec@5 25.343
+Epoch: 5	Loss: 4.2677	Prec@1 5.673	Prec@5 23.532
+Epoch: 6	Loss: 4.0853	Prec@1 5.886	Prec@5 24.704
+Epoch: 7	Loss: 4.1325	Prec@1 6.404	Prec@5 24.191
+Epoch: 8	Loss: 4.7958	Prec@1 5.660	Prec@5 24.597
+Epoch: 9	Loss: 4.0902	Prec@1 6.589	Prec@5 26.421
+Epoch: 10	Loss: 4.1947	Prec@1 6.735	Prec@5 25.682
+Epoch: 11	Loss: 4.1781	Prec@1 5.955	Prec@5 24.635
+Epoch: 12	Loss: 3.3455	Prec@1 7.346	Prec@5 30.829
+Epoch: 13	Loss: 3.3037	Prec@1 7.975	Prec@5 32.443
+Epoch: 14	Loss: 3.3070	Prec@1 7.877	Prec@5 32.266
+Epoch: 15	Loss: 3.3274	Prec@1 7.675	Prec@5 31.876
+Epoch: 16	Loss: 3.3813	Prec@1 7.405	Prec@5 30.896
+Epoch: 17	Loss: 3.3659	Prec@1 7.421	Prec@5 31.078
+Epoch: 18	Loss: 3.3442	Prec@1 7.510	Prec@5 31.789
+Epoch: 19	Loss: 3.3636	Prec@1 7.705	Prec@5 31.391
+LR-0.0001 and 10% reduce after every 12 epochs and Weight decay: 0.0005 total epochs: 20 and 0 dropouts and 61 classes and Logsoftmax activation and undersample validation
+Epoch: 0	Loss: 4.6231	Prec@1 4.645	Prec@5 19.749
+Epoch: 1	Loss: 4.4056	Prec@1 5.901	Prec@5 22.100
+Epoch: 2	Loss: 4.4291	Prec@1 6.042	Prec@5 24.998
+Epoch: 3	Loss: 4.1961	Prec@1 7.070	Prec@5 25.733
+Epoch: 4	Loss: 4.1466	Prec@1 7.795	Prec@5 28.864
+Epoch: 5	Loss: 4.1314	Prec@1 8.005	Prec@5 28.279
+LR-0.0001 and 10% reduce after every 12 epochs and Weight decay: 0.00001 total epochs: 20 and 0 dropouts and 61 classes and Logsoftmax activation and undersample validation
+Epoch: 0	Loss: 4.3882	Prec@1 5.843	Prec@5 21.433
+Epoch: 1	Loss: 4.3855	Prec@1 6.451	Prec@5 24.214
+Epoch: 2	Loss: 4.4133	Prec@1 6.164	Prec@5 23.712
+Epoch: 3	Loss: 4.3043	Prec@1 7.854	Prec@5 26.916
+Epoch: 4	Loss: 3.8959	Prec@1 8.419	Prec@5 27.491
+Epoch: 5	Loss: 3.9244	Prec@1 8.438	Prec@5 28.425
+Epoch: 6	Loss: 4.5551	Prec@1 8.949	Prec@5 29.063
+Epoch: 7	Loss: 4.1067	Prec@1 9.280	Prec@5 30.261
+Epoch: 8	Loss: 3.9863	Prec@1 9.042	Prec@5 30.110
+Epoch: 9	Loss: 4.2652	Prec@1 9.149	Prec@5 30.938
+Epoch: 10	Loss: 4.5428	Prec@1 9.738	Prec@5 30.909
+Epoch: 11	Loss: 4.3702	Prec@1 10.366	Prec@5 31.624
+Epoch: 12	Loss: 4.1341	Prec@1 9.913	Prec@5 31.381
+Epoch: 13	Loss: 4.1827	Prec@1 10.400	Prec@5 31.430
+Epoch: 14	Loss: 4.3404	Prec@1 9.977	Prec@5 32.014
+Epoch: 15	Loss: 4.6222	Prec@1 10.176	Prec@5 31.770
+Epoch: 16	Loss: 4.4858	Prec@1 10.405	Prec@5 33.372
+Epoch: 17	Loss: 4.3711	Prec@1 11.067	Prec@5 32.291
+Epoch: 18	Loss: 4.4890	Prec@1 11.072	Prec@5 32.481
+Epoch: 19	Loss: 4.8073	Prec@1 10.887	Prec@5 32.637
+LR-0.0001 and 10% reduce after every 12 epochs and Weight decay: 0.0001 total epochs: 20 and 0 dropouts and 61 classes and Logsoftmax activation and undersample validation
+Epoch: 0	Loss: 4.5449	Prec@1 4.548	Prec@5 20.542
+Epoch: 1	Loss: 4.6969	Prec@1 6.880	Prec@5 23.405
+Epoch: 2	Loss: 4.0819	Prec@1 6.714	Prec@5 24.360
+Epoch: 3	Loss: 4.2634	Prec@1 8.170	Prec@5 27.349
+Epoch: 4	Loss: 4.1546	Prec@1 7.756	Prec@5 26.604
+Epoch: 5	Loss: 4.2834	Prec@1 8.316	Prec@5 29.287
+Epoch: 6	Loss: 4.2702	Prec@1 8.263	Prec@5 27.028
+Epoch: 7	Loss: 4.2834	Prec@1 8.852	Prec@5 29.618
+Epoch: 8	Loss: 4.1488	Prec@1 8.847	Prec@5 29.847
+Epoch: 9	Loss: 4.0985	Prec@1 9.232	Prec@5 29.647
+Epoch: 10	Loss: 4.1782	Prec@1 9.675	Prec@5 30.504
+Epoch: 11	Loss: 4.4188	Prec@1 9.524	Prec@5 31.488
+Epoch: 12	Loss: 3.8602	Prec@1 10.478	Prec@5 32.291
+Epoch: 13	Loss: 4.0230	Prec@1 10.464	Prec@5 32.881
+Epoch: 14	Loss: 4.6051	Prec@1 9.777	Prec@5 31.191
+Epoch: 15	Loss: 4.2817	Prec@1 9.986	Prec@5 33.085
+Epoch: 16	Loss: 4.5364	Prec@1 10.288	Prec@5 31.288
+Epoch: 17	Loss: 4.5340	Prec@1 9.796	Prec@5 31.420
+Epoch: 18	Loss: 4.3856	Prec@1 10.756	Prec@5 33.411
+Epoch: 19	Loss: 4.3904	Prec@1 10.936	Prec@5 33.061
+LR-0.0001 and 10% reduce after every 12 epochs and Weight decay: 0.001 total epochs: 20 and 0 dropouts and 61 classes and Logsoftmax activation and undersample validation
+Epoch: 0	Loss: 4.6191	Prec@1 4.777	Prec@5 19.958
+Epoch: 1	Loss: 4.5642	Prec@1 6.023	Prec@5 22.135
+Epoch: 2	Loss: 4.3593	Prec@1 5.687	Prec@5 23.6055.1    Results
+DEX:
+The network is experimented to train for both training regression and learning a regression
+on top of CNN features from convolutional layers. But the softmax expected value on the network
+trained for classification worked better than both of these methods. Table.1 reports the MAE and e-
+error for different setups. This shows training LAP without IMDB WIKI dataset results in large error
+rate compared to training with IMDB WIKI dataset. Also the network directly trained on regression,
+classification has more error than the classification+Expected value.The softmax expected value on
+LAP validation set resulted in less error rate with MAE of 3.221 and e-error of 0.278.
+However this method fails in some cases. The causes are, failure in face detection phase, dark
+images, images with glasses and old photographs. Fig.5 shows the face images for which DEX fails
+to predict the age.
+Children Specialized DEX:
+The experimental results for this SoA are tabulated in Table 2. The
+table  contains
+
+-error  for  different  setups  like  using  different  face  detectors,  only  biological  age
+estimation, data augmentation and using children model. First, the model is only trained on IMDB
+WIKI dataset to estimate real age and
+
+-error was 0.3927. To estimate the apparent age the mode
+Epoch: 3	Loss: 4.4651	Prec@1 5.867	Prec@5 23.551
+Epoch: 4	Loss: 4.2988	Prec@1 7.002	Prec@5 25.850
+Epoch: 5	Loss: 4.4788	Prec@1 6.763	Prec@5 24.968
+Epoch: 6	Loss: 4.1415	Prec@1 6.690	Prec@5 25.514
+Epoch: 7	Loss: 4.2611	Prec@1 6.636	Prec@5 25.538
+LR-0.0001 and 10% reduce after every 12 epochs and Weight decay: 0.001 total epochs: 40 and 0 dropouts and 61 classes and Logsoftmax activation and undersample validation
+Epoch: 0	Loss: 4.3329	Prec@1 4.937	Prec@5 20.757
+Epoch: 1	Loss: 4.5204	Prec@1 7.080	Prec@5 24.404
+Epoch: 2	Loss: 4.3946	Prec@1 6.208	Prec@5 24.657
+Epoch: 3	Loss: 4.4916	Prec@1 6.671	Prec@5 25.596
+Epoch: 4	Loss: 4.2395	Prec@1 7.620	Prec@5 27.641
+Epoch: 5	Loss: 4.0979	Prec@1 8.706	Prec@5 28.508
+Epoch: 6	Loss: 4.1358	Prec@1 8.423	Prec@5 30.397
+Epoch: 7	Loss: 4.3651	Prec@1 8.433	Prec@5 28.255
+Epoch: 8	Loss: 4.2640	Prec@1 9.188	Prec@5 29.594
+Epoch: 9	Loss: 4.0101	Prec@1 9.714	Prec@5 32.028
+Epoch: 10	Loss: 4.5214	Prec@1 9.003	Prec@5 28.805
+Epoch: 11	Loss: 4.1158	Prec@1 9.246	Prec@5 31.580
+Epoch: 12	Loss: 4.3224	Prec@1 9.787	Prec@5 32.871
+Epoch: 13	Loss: 4.2709	Prec@1 10.201	Prec@5 33.095
+Epoch: 14	Loss: 4.6692	Prec@1 9.680	Prec@5 30.913
+Epoch: 15	Loss: 4.1437	Prec@1 10.274	Prec@5 32.588
+Epoch: 16	Loss: 4.3957	Prec@1 10.532	Prec@5 31.965
+Epoch: 17	Loss: 4.2177	Prec@1 10.610	Prec@5 32.817
+Epoch: 18	Loss: 4.8300	Prec@1 10.483	Prec@5 32.072
+Epoch: 19	Loss: 4.6581	Prec@1 11.174	Prec@5 34.039
+Epoch: 20	Loss: 4.9256	Prec@1 10.795	Prec@5 31.877
+Epoch: 21	Loss: 4.5840	Prec@1 11.462	Prec@5 34.921
+Epoch: 22	Loss: 5.2184	Prec@1 10.595	Prec@5 31.147
+Epoch: 23	Loss: 5.1793	Prec@1 11.272	Prec@5 32.213
+Epoch: 24	Loss: 5.3551	Prec@1 10.873	Prec@5 31.970
+Epoch: 25	Loss: 5.3803	Prec@1 10.926	Prec@5 32.394
+Epoch: 26	Loss: 5.2322	Prec@1 11.885	Prec@5 34.205
+Epoch: 27	Loss: 5.4751	Prec@1 11.058	Prec@5 32.691
+Epoch: 28	Loss: 5.3043	Prec@1 12.104	Prec@5 33.056
+Epoch: 29	Loss: 5.3567	Prec@1 11.861	Prec@5 33.922
+Epoch: 30	Loss: 5.6127	Prec@1 10.858	Prec@5 31.887
+Epoch: 31	Loss: 5.2371	Prec@1 11.939	Prec@5 34.249
+Epoch: 32	Loss: 5.5183	Prec@1 11.569	Prec@5 33.874
+Epoch: 33	Loss: 6.3158	Prec@1 11.978	Prec@5 32.881
+Epoch: 34	Loss: 5.3932	Prec@1 11.452	Prec@5 34.054
+Epoch: 35	Loss: 5.9057	Prec@1 11.637	Prec@5 33.708
+Epoch: 36	Loss: 6.0685	Prec@1 10.950	Prec@5 33.036
+Epoch: 37	Loss: 6.1020	Prec@1 11.807	Prec@5 32.900
+Epoch: 38	Loss: 6.4041	Prec@1 11.871	Prec@5 33.879
+Epoch: 39	Loss: 6.3415	Prec@1 11.729	Prec@5 32.778
+
+Epoch: 0	Loss: 4.1632	Prec@1 4.225	Prec@5 18.413
+Epoch: 1	Loss: 4.2234	Prec@1 3.503	Prec@5 18.089
+Epoch: 2	Loss: 4.1443	Prec@1 4.554	Prec@5 21.552
+Epoch: 3	Loss: 4.0340	Prec@1 4.800	Prec@5 21.727
+Epoch: 4	Loss: 3.9236	Prec@1 5.613	Prec@5 24.360
+Epoch: 5	Loss: 4.1241	Prec@1 4.865	Prec@5 22.523
+Epoch: 6	Loss: 3.8725	Prec@1 5.493	Prec@5 23.849
+Epoch: 7	Loss: 3.7577	Prec@1 5.923	Prec@5 24.825
+Epoch: 8	Loss: 3.6831	Prec@1 6.450	Prec@5 26.916
+Epoch: 9	Loss: 3.8823	Prec@1 6.143	Prec@5 24.427
+Epoch: 10	Loss: 3.7650	Prec@1 6.479	Prec@5 27.645
+Epoch: 11	Loss: 3.7640	Prec@1 6.666	Prec@5 27.606
+Epoch: 12	Loss: 4.0145	Prec@1 6.390	Prec@5 23.871
+Epoch: 13	Loss: 3.7457	Prec@1 6.966	Prec@5 28.729
+Epoch: 14	Loss: 3.8386	Prec@1 6.486	Prec@5 28.074
+Epoch: 15	Loss: 3.8545	Prec@1 6.925	Prec@5 27.012
+Epoch: 16	Loss: 3.8254	Prec@1 6.709	Prec@5 27.266
+Epoch: 17	Loss: 3.8042	Prec@1 6.453	Prec@5 28.136
+Epoch: 18	Loss: 3.7833	Prec@1 7.220	Prec@5 28.733
+Epoch: 19	Loss: 3.9389	Prec@1 6.680	Prec@5 26.724
+Epoch: 20	Loss: 4.0170	Prec@1 7.357	Prec@5 28.309
+
+
+Epoch: 0	Loss: 4.3720	Prec@1 3.376	Prec@5 12.692
+Epoch: 1	Loss: 4.1730	Prec@1 3.326	Prec@5 17.775
+Epoch: 2	Loss: 4.0425	Prec@1 3.741	Prec@5 17.624
+Epoch: 3	Loss: 3.8948	Prec@1 4.167	Prec@5 19.792
+Epoch: 4	Loss: 4.0958	Prec@1 5.069	Prec@5 20.583
+Epoch: 5	Loss: 4.1558	Prec@1 4.558	Prec@5 19.602
+Epoch: 6	Loss: 4.2399	Prec@1 3.990	Prec@5 18.660
+Epoch: 7	Loss: 4.0551	Prec@1 4.844	Prec@5 21.437
+Epoch: 8	Loss: 4.0944	Prec@1 4.539	Prec@5 19.389
+Epoch: 9	Loss: 4.0023	Prec@1 4.455	Prec@5 19.871
+Epoch: 10	Loss: 3.9892	Prec@1 4.956	Prec@5 20.593
+Epoch: 11	Loss: 3.9408	Prec@1 5.517	Prec@5 21.777
+Epoch: 12	Loss: 4.0044	Prec@1 5.350	Prec@5 22.859
+Epoch: 13	Loss: 3.9972	Prec@1 5.892	Prec@5 23.854
+Epoch: 14	Loss: 4.1636	Prec@1 5.047	Prec@5 21.943
+Epoch: 15	Loss: 4.0191	Prec@1 5.184	Prec@5 22.569
+Epoch: 16	Loss: 3.9000	Prec@1 6.234	Prec@5 23.835
+Epoch: 17	Loss: 3.8669	Prec@1 6.774	Prec@5 25.631
+Epoch: 18	Loss: 3.9317	Prec@1 6.033	Prec@5 24.319
+Epoch: 19	Loss: 3.9021	Prec@1 6.131	Prec@5 25.120
+Epoch: 20	Loss: 3.9775	Prec@1 5.968	Prec@5 24.906
+Epoch: 21	Loss: 3.9128	Prec@1 6.851	Prec@5 26.376
+Epoch: 22	Loss: 3.9460	Prec@1 6.397	Prec@5 24.115
+Epoch: 23	Loss: 4.1941	Prec@1 6.405	Prec@5 24.091
+Epoch: 24	Loss: 4.4651	Prec@1 6.369	Prec@5 24.439
+Epoch: 25	Loss: 4.1286	Prec@1 6.011	Prec@5 25.935
+Epoch: 26	Loss: 4.1132	Prec@1 5.798	Prec@5 24.403
+Epoch: 27	Loss: 4.0824	Prec@1 6.352	Prec@5 23.504
+Epoch: 28	Loss: 4.0425	Prec@1 6.841	Prec@5 25.904
+Epoch: 29	Loss: 4.0675	Prec@1 7.232	Prec@5 27.441
+Epoch: 30	Loss: 4.0243	Prec@1 6.999	Prec@5 26.669
+Epoch: 31	Loss: 4.5496	Prec@1 5.613	Prec@5 26.173
+Epoch: 32	Loss: 4.0916	Prec@1 6.935	Prec@5 27.074
+Epoch: 33	Loss: 4.1016	Prec@1 6.676	Prec@5 27.158
+Epoch: 34	Loss: 4.1212	Prec@1 7.011	Prec@5 27.324
+Epoch: 35	Loss: 4.3290	Prec@1 6.359	Prec@5 25.969
+Epoch: 36	Loss: 4.1264	Prec@1 7.230	Prec@5 27.544
+Epoch: 37	Loss: 4.1585	Prec@1 6.894	Prec@5 27.698
+LR-0.001 and 10% reduce after every 10 epochs and Weight decay: 0.00001 total epochs: 35 and 0 dropouts and 61 classes and softmax activation and undersample validation
+Epoch: 0	Loss: 4.4140	Prec@1 2.659	Prec@5 13.402
+Epoch: 1	Loss: 4.2681	Prec@1 3.381	Prec@5 14.648
+
+Epoch: 2	Loss: 4.1703	Prec@1 2.681	Prec@5 15.174
+Epoch: 38	Loss: 4.2140	Prec@1 7.628	Prec@5 27.993
+Epoch: 3	Loss: 4.1215	Prec@1 2.755	Prec@5 14.975
+Epoch: 39	Loss: 4.3898	Prec@1 7.007	Prec@5 27.513
+Epoch: 4	Loss: 4.0489	Prec@1 2.779	Prec@5 16.265
+Epoch: 5	Loss: 4.0252	Prec@1 2.851	Prec@5 16.214
+Epoch: 6	Loss: 4.0186	Prec@1 3.026	Prec@5 16.866
+Epoch: 7	Loss: 3.9905	Prec@1 3.005	Prec@5 16.461
+Epoch: 8	Loss: 3.9426	Prec@1 3.472	Prec@5 19.085
+Epoch: 9	Loss: 3.9653	Prec@1 3.916	Prec@5 17.998
+Epoch: 10	Loss: 3.9295	Prec@1 4.062	Prec@5 18.912
+Epoch: 11	Loss: 3.9256	Prec@1 4.096	Prec@5 18.996
+Epoch: 12	Loss: 3.9271	Prec@1 4.120	Prec@5 19.044
+Epoch: 13	Loss: 3.9304	Prec@1 4.172	Prec@5 18.564
+Epoch: 14	Loss: 3.9245	Prec@1 4.120	Prec@5 18.459
+Epoch: 15	Loss: 3.9289	Prec@1 4.179	Prec@5 19.185
+Epoch: 16	Loss: 3.9231	Prec@1 4.129	Prec@5 18.485
+Epoch: 17	Loss: 3.9204	Prec@1 4.103	Prec@5 18.356
+Epoch: 0	Loss: 4.5642	Prec@1 2.170	Prec@5 6.076
+Epoch: 1	Loss: 4.5087	Prec@1 0.719	Prec@5 5.594
+Epoch: 2	Loss: 4.4662	Prec@1 0.719	Prec@5 6.038
+Epoch: 3	Loss: 4.4328	Prec@1 0.719	Prec@5 6.038
+Epoch: 4	Loss: 4.4062	Prec@1 0.719	Prec@5 6.038
+Epoch: 0	Loss: 4.0932	Prec@1 4.625	Prec@5 19.053
+Epoch: 1	Loss: 4.1258	Prec@1 4.352	Prec@5 19.569
+Epoch: 2	Loss: 3.8828	Prec@1 5.095	Prec@5 21.092
+Epoch: 3	Loss: 3.9333	Prec@1 5.342	Prec@5 23.509
+Epoch: 4	Loss: 4.1513	Prec@1 4.467	Prec@5 20.343
+Epoch: 5	Loss: 3.8018	Prec@1 6.196	Prec@5 25.117
+Epoch: 6	Loss: 3.9059	Prec@1 6.086	Prec@5 24.266
+Epoch: 7	Loss: 3.9413	Prec@1 5.558	Prec@5 21.957
+Epoch: 8	Loss: 3.9988	Prec@1 5.273	Prec@5 24.221
+Epoch: 9	Loss: 3.8026	Prec@1 6.846	Prec@5 27.017
+Epoch: 10	Loss: 3.9694	Prec@1 6.316	Prec@5 24.199
+Epoch: 11	Loss: 3.8429	Prec@1 6.549	Prec@5 25.364
+Epoch: 12	Loss: 3.7526	Prec@1 6.666	Prec@5 27.815
+Epoch: 13	Loss: 3.8982	Prec@1 6.553	Prec@5 26.611
+Epoch: 14	Loss: 3.8832	Prec@1 6.227	Prec@5 24.319
+Epoch: 15	Loss: 4.0267	Prec@1 5.935	Prec@5 25.511
+Epoch: 16	Loss: 3.8880	Prec@1 6.932	Prec@5 27.693
+Epoch: 17	Loss: 3.8695	Prec@1 6.700	Prec@5 28.172
+Epoch: 18	Loss: 4.0716	Prec@1 6.522	Prec@5 26.952
+Epoch: 19	Loss: 3.8334	Prec@1 7.150	Prec@5 27.635
+Epoch: 20	Loss: 3.5024	Prec@1 8.289	Prec@5 32.220
+Epoch: 21	Loss: 3.4916	Prec@1 8.181	Prec@5 33.066
+Epoch: 22	Loss: 3.5106	Prec@1 8.042	Prec@5 32.584
+Epoch: 23	Loss: 3.5233	Prec@1 8.404	Prec@5 32.990
+Epoch: 24	Loss: 3.5260	Prec@1 8.301	Prec@5 32.474
+Epoch: 25	Loss: 3.5439	Prec@1 8.146	Prec@5 32.285
+Epoch: 26	Loss: 3.5413	Prec@1 8.263	Prec@5 32.865
+Epoch: 27	Loss: 3.5590	Prec@1 8.124	Prec@5 32.536
+Epoch: 28	Loss: 3.5897	Prec@1 8.426	Prec@5 32.304
+Epoch: 29	Loss: 3.5837	Prec@1 8.232	Prec@5 32.249
+Epoch: 30	Loss: 3.5846	Prec@1 7.994	Prec@5 32.352
+Epoch: 31	Loss: 3.5533	Prec@1 8.253	Prec@5 32.982
+Epoch: 32	Loss: 3.5681	Prec@1 8.345	Prec@5 32.927
+Epoch: 33	Loss: 3.6170	Prec@1 8.316	Prec@5 31.772
+Epoch: 34	Loss: 3.5753	Prec@1 8.380	Prec@5 32.630
+Epoch: 0	Loss: 4.1688	Prec@1 4.136	Prec@5 18.029
+Epoch: 0	Loss: 4.3374	Prec@1 3.496	Prec@5 15.802
+Epoch: 0	Loss: 4.2760	Prec@1 2.901	Prec@5 14.958
+Epoch: 1	Loss: 4.0812	Prec@1 4.486	Prec@5 20.396
+Epoch: 2	Loss: 4.0853	Prec@1 4.362	Prec@5 20.725
+Epoch: 3	Loss: 3.8629	Prec@1 5.769	Prec@5 23.667
+Epoch: 4	Loss: 4.0470	Prec@1 5.275	Prec@5 21.499
+Epoch: 5	Loss: 3.9235	Prec@1 5.683	Prec@5 23.839
+Epoch: 6	Loss: 3.8506	Prec@1 5.762	Prec@5 24.460
+Epoch: 7	Loss: 3.7694	Prec@1 5.817	Prec@5 25.849
+Epoch: 8	Loss: 3.8148	Prec@1 6.328	Prec@5 25.115
+Epoch: 9	Loss: 4.0479	Prec@1 6.244	Prec@5 26.261
+Epoch: 10	Loss: 3.8424	Prec@1 6.400	Prec@5 24.516
+Epoch: 11	Loss: 3.8218	Prec@1 5.987	Prec@5 26.137
+Epoch: 12	Loss: 3.7454	Prec@1 6.829	Prec@5 27.467
+Epoch: 13	Loss: 3.8514	Prec@1 6.798	Prec@5 26.693
+Epoch: 14	Loss: 3.8713	Prec@1 7.189	Prec@5 26.599
+Epoch: 15	Loss: 3.9387	Prec@1 6.884	Prec@5 26.858
+Epoch: 16	Loss: 3.8222	Prec@1 7.124	Prec@5 27.873
+Epoch: 17	Loss: 3.7510	Prec@1 7.124	Prec@5 28.043
+Epoch: 18	Loss: 4.1865	Prec@1 6.445	Prec@5 26.273
+Epoch: 19	Loss: 3.9265	Prec@1 6.839	Prec@5 28.990
+Epoch: 20	Loss: 3.4971	Prec@1 8.102	Prec@5 32.405
+Epoch: 21	Loss: 3.5121	Prec@1 8.138	Prec@5 32.676
+Epoch: 22	Loss: 3.5006	Prec@1 8.582	Prec@5 32.680
+Epoch: 23	Loss: 3.5228	Prec@1 8.196	Prec@5 32.539
+Epoch: 24	Loss: 3.5634	Prec@1 8.093	Prec@5 32.242
+Epoch: 0	Loss: 11.7626	Prec@1 4.400	Prec@5 5.800
+Epoch: 0	Loss: 4.3528	Prec@1 4.067	Prec@5 14.667
+Epoch: 0	Loss: 3.6269	Prec@1 7.600	Prec@5 32.333
+Epoch: 1	Loss: 3.7411	Prec@1 8.533	Prec@5 30.533
+Epoch: 2	Loss: 3.7749	Prec@1 5.467	Prec@5 33.133
+Epoch: 3	Loss: 3.6113	Prec@1 8.667	Prec@5 33.733
+Epoch: 4	Loss: 3.6575	Prec@1 7.533	Prec@5 29.467
+Epoch: 5	Loss: 3.6504	Prec@1 7.533	Prec@5 32.800
+Epoch: 6	Loss: 3.4932	Prec@1 8.733	Prec@5 37.733
+Epoch: 7	Loss: 3.6137	Prec@1 9.000	Prec@5 36.133
+Epoch: 8	Loss: 3.6718	Prec@1 9.400	Prec@5 36.933
+Epoch: 9	Loss: 3.5866	Prec@1 9.400	Prec@5 36.933
+Epoch: 10	Loss: 3.6320	Prec@1 7.667	Prec@5 35.133
+Epoch: 11	Loss: 3.5595	Prec@1 7.733	Prec@5 33.800
+Epoch: 12	Loss: 3.5542	Prec@1 9.133	Prec@5 35.400
+Epoch: 13	Loss: 3.5319	Prec@1 9.533	Prec@5 38.000
+Epoch: 14	Loss: 3.4717	Prec@1 8.467	Prec@5 36.133
+Epoch: 15	Loss: 3.5904	Prec@1 8.267	Prec@5 35.800
+Epoch: 16	Loss: 3.6010	Prec@1 9.267	Prec@5 37.333
+Epoch: 17	Loss: 3.7455	Prec@1 8.267	Prec@5 36.067
+Epoch: 18	Loss: 3.7642	Prec@1 8.800	Prec@5 37.067
+Epoch: 19	Loss: 3.7551	Prec@1 9.067	Prec@5 36.667
+Epoch: 0	Loss: 5.1549	Prec@1 1.647	Prec@5 14.574
+Epoch: 1	Loss: 5.5177	Prec@1 2.748	Prec@5 18.269
+Epoch: 2	Loss: 4.7366	Prec@1 4.426	Prec@5 20.554
+Epoch: 3	Loss: 4.5815	Prec@1 4.580	Prec@5 20.300
+Epoch: 4	Loss: 5.7798	Prec@1 3.964	Prec@5 22.643
+Epoch: 5	Loss: 5.6495	Prec@1 4.503	Prec@5 20.487
+Epoch: 0	Loss: 5.1436	Prec@1 1.573	Prec@5 13.860
+Epoch: 1	Loss: 5.1582	Prec@1 3.743	Prec@5 19.631
+Epoch: 2	Loss: 5.6927	Prec@1 3.357	Prec@5 20.986
+Epoch: 6	Loss: 4.3537	Prec@1 5.107	Prec@5 23.880
+Epoch: 3	Loss: 4.3713	Prec@1 2.520	Prec@5 19.255
+Epoch: 4	Loss: 5.2617	Prec@1 3.719	Prec@5 22.700
+Epoch: 5	Loss: 4.4022	Prec@1 4.067	Prec@5 22.581
+Epoch: 7	Loss: 4.4200	Prec@1 5.892	Prec@5 23.722
+Epoch: 6	Loss: 4.9504	Prec@1 4.024	Prec@5 21.713
+Epoch: 0	Loss: 4.1492	Prec@1 4.200	Prec@5 16.533
+Epoch: 1	Loss: 4.1039	Prec@1 4.333	Prec@5 18.667
+Epoch: 7	Loss: 4.2214	Prec@1 4.563	Prec@5 22.636
+Epoch: 2	Loss: 4.0723	Prec@1 4.733	Prec@5 15.067
+Epoch: 3	Loss: 4.0398	Prec@1 3.533	Prec@5 19.867
+Epoch: 4	Loss: 4.0957	Prec@1 4.267	Prec@5 18.533
+Epoch: 5	Loss: 3.9599	Prec@1 3.267	Prec@5 20.667
+Epoch: 6	Loss: 3.9351	Prec@1 4.867	Prec@5 21.400
+Epoch: 7	Loss: 3.8739	Prec@1 4.933	Prec@5 24.133
+Epoch: 8	Loss: 3.8188	Prec@1 4.733	Prec@5 21.533
+Epoch: 9	Loss: 3.8185	Prec@1 4.267	Prec@5 23.933
+Epoch: 10	Loss: 3.8426	Prec@1 6.600	Prec@5 25.733
+Epoch: 11	Loss: 3.7566	Prec@1 5.933	Prec@5 25.200
+Epoch: 12	Loss: 3.6933	Prec@1 3.667	Prec@5 26.067
+Epoch: 13	Loss: 3.6646	Prec@1 5.533	Prec@5 27.400
+Epoch: 14	Loss: 3.7125	Prec@1 5.000	Prec@5 26.667
+Epoch: 15	Loss: 3.6041	Prec@1 6.200	Prec@5 30.333
+Epoch: 16	Loss: 3.6140	Prec@1 5.000	Prec@5 28.733
+Epoch: 17	Loss: 3.6226	Prec@1 8.000	Prec@5 32.200
+Epoch: 18	Loss: 3.4801	Prec@1 8.200	Prec@5 32.933
+Epoch: 19	Loss: 3.5756	Prec@1 7.667	Prec@5 32.800
+Epoch: 20	Loss: 3.3784	Prec@1 8.533	Prec@5 35.000
+Epoch: 21	Loss: 3.3902	Prec@1 8.333	Prec@5 35.333
+Epoch: 22	Loss: 3.3810	Prec@1 9.267	Prec@5 36.000
+Epoch: 23	Loss: 3.3988	Prec@1 8.067	Prec@5 35.933
+Epoch: 24	Loss: 3.4063	Prec@1 8.800	Prec@5 35.133
+Epoch: 8	Loss: 4.7218	Prec@1 3.052	Prec@5 23.482
+Epoch: 9	Loss: 4.9615	Prec@1 3.935	Prec@5 23.374
+Epoch: 10	Loss: 4.7586	Prec@1 4.273	Prec@5 24.197
+Epoch: 11	Loss: 4.8119	Prec@1 4.261	Prec@5 25.650
+Epoch: 12	Loss: 4.8143	Prec@1 3.599	Prec@5 24.559
+Epoch: 13	Loss: 4.7092	Prec@1 4.798	Prec@5 25.753
+Epoch: 14	Loss: 4.0014	Prec@1 5.012	Prec@5 27.252
+Epoch: 15	Loss: 3.8508	Prec@1 6.045	Prec@5 26.770
+Epoch: 16	Loss: 3.8503	Prec@1 5.642	Prec@5 25.820
+Epoch: 17	Loss: 4.4089	Prec@1 4.604	Prec@5 26.345
+Epoch: 18	Loss: 4.4836	Prec@1 5.211	Prec@5 27.259
+Epoch: 19	Loss: 4.4394	Prec@1 3.971	Prec@5 24.743
+Epoch: 20	Loss: 3.3322	Prec@1 8.057	Prec@5 33.620
+Epoch: 21	Loss: 3.3413	Prec@1 7.592	Prec@5 32.990
+Epoch: 22	Loss: 3.3340	Prec@1 7.735	Prec@5 33.793
+Epoch: 23	Loss: 3.3427	Prec@1 7.812	Prec@5 33.253
+Epoch: 24	Loss: 3.3450	Prec@1 7.841	Prec@5 33.297
+Epoch: 0	Loss: 3.3329	Prec@1 7.884	Prec@5 33.594
+Epoch: 1	Loss: 3.3433	Prec@1 7.534	Prec@5 33.491
+Epoch: 2	Loss: 3.3460	Prec@1 7.889	Prec@5 33.136
+Epoch: 3	Loss: 3.3548	Prec@1 7.584	Prec@5 32.759
+LR-0.0001 and 10% reduce after every 20 epochs and Weight decay: 0.00001 total epochs: 30 and 0 dropouts and 99 classes and ReLU activation and undersample validation and Optimiser:Adam
+Epoch: 0	Loss: 3.5265	Prec@1 6.141	Prec@5 26.801
+Epoch: 1	Loss: 3.4393	Prec@1 6.680	Prec@5 29.019
+Epoch: 2	Loss: 3.3697	Prec@1 7.299	Prec@5 31.515
+Epoch: 3	Loss: 3.4215	Prec@1 7.141	Prec@5 30.666
+Epoch: 4	Loss: 3.4194	Prec@1 7.383	Prec@5 31.553
+Epoch: 5	Loss: 3.4458	Prec@1 7.234	Prec@5 31.409
+Epoch: 6	Loss: 3.4012	Prec@1 7.836	Prec@5 33.153
+Epoch: 7	Loss: 3.4677	Prec@1 7.572	Prec@5 32.764
+Epoch: 8	Loss: 3.4762	Prec@1 7.887	Prec@5 32.069
+Epoch: 9	Loss: 3.4754	Prec@1 8.047	Prec@5 33.136
+Epoch: 10	Loss: 3.5279	Prec@1 8.023	Prec@5 33.630
+Epoch: 11	Loss: 3.5252	Prec@1 7.810	Prec@5 32.877
+Epoch: 12	Loss: 3.5721	Prec@1 7.618	Prec@5 31.839
+Epoch: 13	Loss: 3.5869	Prec@1 7.855	Prec@5 32.623
+Epoch: 14	Loss: 3.6385	Prec@1 7.477	Prec@5 31.417
+Epoch: 15	Loss: 3.6488	Prec@1 7.887	Prec@5 33.488
+Epoch: 16	Loss: 3.6667	Prec@1 7.726	Prec@5 32.623
+Epoch: 17	Loss: 3.6375	Prec@1 7.942	Prec@5 32.999
+Epoch: 18	Loss: 3.7732	Prec@1 7.934	Prec@5 33.313
+Epoch: 19	Loss: 3.7200	Prec@1 7.654	Prec@5 32.395
+Epoch: 20	Loss: 4.2369	Prec@1 8.544	Prec@5 35.059
+Epoch: 21	Loss: 4.3676	Prec@1 8.743	Prec@5 35.433
+Epoch: 22	Loss: 4.5938	Prec@1 8.731	Prec@5 35.491
+Epoch: 23	Loss: 4.7181	Prec@1 8.735	Prec@5 35.289
+Epoch: 24	Loss: 4.8159	Prec@1 8.692	Prec@5 35.356
+Epoch: 25	Loss: 4.9762	Prec@1 8.858	Prec@5 35.114
+Epoch: 26	Loss: 5.0021	Prec@1 8.719	Prec@5 35.455
+Epoch: 27	Loss: 5.1630	Prec@1 8.764	Prec@5 35.435
+Epoch: 28	Loss: 5.1985	Prec@1 8.692	Prec@5 35.174
+Epoch: 29	Loss: 5.3691	Prec@1 8.906	Prec@5 35.239
+Epoch: 30	Loss: 5.5544	Prec@1 8.803	Prec@5 35.411
+Epoch: 31	Loss: 5.4851	Prec@1 8.687	Prec@5 35.236
+Epoch: 32	Loss: 5.6821	Prec@1 8.855	Prec@5 35.632
+Epoch: 33	Loss: 5.8369	Prec@1 8.930	Prec@5 35.280
+Epoch: 34	Loss: 5.7500	Prec@1 8.757	Prec@5 35.222
+LR-0.0001 and 10% reduce after every 7 epochs and Weight decay: 0.00001 total epochs: 20 and 0 dropouts and 99 classes and ReLU activation and undersample validation and Optimiser:Adam
+Epoch: 0	Loss: 3.4174	Prec@1 6.784	Prec@5 29.378
+Epoch: 1	Loss: 3.4436	Prec@1 7.263	Prec@5 29.633
+Epoch: 2	Loss: 3.3704	Prec@1 7.450	Prec@5 31.292
+Epoch: 3	Loss: 3.4270	Prec@1 7.596	Prec@5 31.143
+Epoch: 4	Loss: 3.4154	Prec@1 7.771	Prec@5 31.987
+Epoch: 5	Loss: 3.4126	Prec@1 7.975	Prec@5 33.316
+Epoch: 6	Loss: 3.4869	Prec@1 7.697	Prec@5 32.565
+Epoch: 7	Loss: 3.6775	Prec@1 8.599	Prec@5 35.411
+Epoch: 8	Loss: 3.7704	Prec@1 8.872	Prec@5 35.716
+Epoch: 9	Loss: 3.8590	Prec@1 8.723	Prec@5 35.754
+Epoch: 10	Loss: 4.0077	Prec@1 8.853	Prec@5 35.826
+Epoch: 11	Loss: 4.0811	Prec@1 8.793	Prec@5 35.812
+Epoch: 12	Loss: 4.1914	Prec@1 8.896	Prec@5 35.697
+Epoch: 13	Loss: 4.2690	Prec@1 8.858	Prec@5 35.483
+Epoch: 14	Loss: 4.4432	Prec@1 8.874	Prec@5 35.946
+Epoch: 15	Loss: 4.5130	Prec@1 8.862	Prec@5 35.896
+Epoch: 16	Loss: 4.5491	Prec@1 9.030	Prec@5 35.632
+Epoch: 17	Loss: 4.5726	Prec@1 8.949	Prec@5 35.747
+Epoch: 18	Loss: 4.5846	Prec@1 8.920	Prec@5 35.867
+Epoch: 19	Loss: 4.5962	Prec@1 8.985	Prec@5 35.987

@@ -1,0 +1,34 @@
+									**Tuning CNN HyperParameters**
+
+
+
+1. Learning Rate: Tried with different LR's like 0.001, 0.0001, 0.00001. The gradient convergence for finetuning the network is good with lower LR's. This notifies that we should always use lower LR's
+   for finetuning. Finally chosen 0.0001 and 0.00001
+
+2. Weight Decay: This is L2 regularization technique where the weights converge in "-lambda*(weight)**2". 
+
+3. Optimizer: Stochastic Gradient descent is used for optimizing the path for global minima
+
+4. Loss Function:  Cross Entropy Loss function is used since we have imbalanced dataset. To compensate imbalanced dataset we applied weighted cross entropy by assigning higher weight values to classes
+   with lower samples and lower weights to classes with higher samples.
+
+5. Momentum: The momentum we are using is default: 0.9
+
+6. Epochs: Experimented with different number of epochs(10,20,30,40) in combination with different LR's, weight decay factors(lamda). At the epoch 40 the model convergence is better.
+
+7. Dropout: There are two in-built dropout layers in VGG-16 architecture and we added one more with probability=0.5 to reduce overfitting and also experimented with different values
+
+8. Batch Size: Trained model with different batch sizes like 16,32 and 64. batch size- 16 time- 3500mins, batch size- 32 time- 2400mins, batch size- 64 time- 1500mins
+
+9. Data Augmentation and splitting data: Split data randomly into Training(90%) and Testing(10%). Again Training data(90% of total) is divided into training(80%) and validation(20%). Then the training
+   data is augmented as following-
+
+	rotate(probability=1, max_left_rotation=10, max_right_rotation=10)
+	zoom(probability=1, min_factor=1.1, max_factor=1.6)
+	random_distortion(probability=1, grid_width=4, grid_height=4, magnitude=8)
+
+Mistakes:
+
+Performed data augmentation on whole dataset and then splitted it into Training,Validation and Testing which is wrong to do.
+
+Correct:  Split the dataset into Training,Validation and Testing and then perform data augmentation on Training set only. Leave Validation and Test set untouched. 

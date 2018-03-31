@@ -1,0 +1,12 @@
+df=pd.read_csv('/hampiholidata/Project/Datasets/LAP/augment/train.csv')
+df=df.dropna(how='all')
+l=df['Age'].unique()
+np.sort(l)
+df1=df.groupby('Age')['Images'].nunique()
+df1.to_csv('/hampiholidata/Project/Datasets/LAP/augment/train50.csv')
+train=df.sample(frac=0.9, replace=False)
+test=df.drop(train.index)
+
+import fnmatch
+mypath='/hampiholidata/Project/Datasets/imdb/adience/20254529@N04/'
+fnmatch.filter(os.listdir(mypath), '*9403242891_6f936d313a_o.jpg')
